@@ -17,5 +17,3 @@ const Note = ({ id, text, date, handleDeleteNote }) => {
 		</div>
 	);
 };
-
-export default Note;
