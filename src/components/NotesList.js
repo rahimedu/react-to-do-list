@@ -1,4 +1,4 @@
-import Note from './Note';
+import {Note} from './Note';
 import AddNote from './AddNote';
 import React from 'react'
  
